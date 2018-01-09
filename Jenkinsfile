@@ -1,6 +1,6 @@
 node
 {
-stage 'Download from GitHub'
+stage 'Download from GitHub1'
 sh "echo Download"
 
 stage 'Test the Code'
